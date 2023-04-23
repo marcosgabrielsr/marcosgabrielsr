@@ -1,6 +1,6 @@
 ### Hi, I am a hardware/software developer
 
-<h5>👻 Study to achieve your best ! 👻</h5>
+<h1>👻 Study to achieve your best ! 👻</h1>
 
 <div align="center">
   <a href="https://github.com/marcosgabrielsr">
