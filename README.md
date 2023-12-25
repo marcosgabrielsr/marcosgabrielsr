@@ -1,4 +1,4 @@
-### Hi, I am a hardware/software developer
+### Developing large projects with small components.
 
 <h1>👻 Study to achieve your best ! 👻</h1>
 
