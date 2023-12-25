@@ -1,4 +1,5 @@
 ### Developing large projects with small components.
+### I'm developing an embedded systems project using PlatformIO and working with Arduino and ESP32 boards.
 
 <h1>👻 Study to achieve your best ! 👻</h1>
 
