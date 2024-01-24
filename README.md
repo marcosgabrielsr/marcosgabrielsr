@@ -1,7 +1,4 @@
-### Developing large projects with small components.
-### I'm developing an embedded systems project using PlatformIO and working with Arduino and ESP32 boards.
-
-<h1>👻 Study to achieve your best ! 👻</h1>
+<h1>Hi, I'm Marcos Gabriel 👻</h1>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
