@@ -9,36 +9,25 @@
 
 ## Embedded Systems Expertise:
 - ESP32 and Arduino Algorthms from Arduino IDE
+- ESP32 and Arduino Algorthms from PlatformIO IDE
 - Sensing through GPIO's
 - LPOO
 - Iot
 
 ## Languages and Tools:
 <div style="display: inline-block" align="center"><br>
+  <img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Marcos-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Marcos-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Marcos-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Marcos-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Marcos-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Marcos-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Marcos-Vs Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+  <br>
   
-  <table style="margin: auto;">
-    <tr>
-        <td><img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
-        <td><img align="center" alt="Marcos-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></td>
-        <td><img align="center" alt="Marcos-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></td>
-        <td><img align="center" alt="Marcos-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></td>
-        <td><img align="center" alt="Marcos-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></td>
-        <td><img align="center" alt="Marcos-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
-        <td><img align="center" alt="Marcos-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
-        <td><img align="center" alt="Marcos-Vs Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
-    </tr>
-    <tr>
-        <td><h3> Python </h3></td>
-        <td><h3> C </h3></td>
-        <td><h3> C++ </h3></td>
-        <td><h3> Arduino IDE </h3></td>
-        <td><h3> Linux </h3></td>
-        <td><h3> Git </h3></td>
-        <td><h3> Github </h3></td>
-        <td><h3> Vs Code </h3></td>
-    </tr>
-  </table>
-  
+  <img align="center" alt="Marcos-Vs Code" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/platformio.svg">
 </div>
 
 ## Statistics:
