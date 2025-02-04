@@ -3,7 +3,7 @@
 ## About me:
 - I'm 19 years old;
 - Computer Engineering Student at UFMS;
-- Studying the following microcontrollers: ESP32, Arduino and STM32;
+- Studying the following microcontrollers: ESP32, Arduino and RP2350;
 - Aspiral Engineer in Robotics and Embedded Systems;
 - Enjoy contributing to Open Source Projects whenever possible.
 
