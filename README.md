@@ -1,7 +1,7 @@
 <h2>Hi, I'm Marcos Gabriel 👋</h2>
 
 ## About me:
-- I'm 19 years old;
+- I'm 20 years old;
 - Computer Engineering Student at UFMS;
 - Studying the following microcontrollers: ESP32, Arduino and RP2350;
 - Aspiral Engineer in Robotics and Embedded Systems;
