@@ -1,39 +1,51 @@
-<h2>Hi, I'm Marcos Gabriel 👋</h2>
+<div align="center">
 
-## About me:
-- I'm 20 years old;
-- Computer Engineering Student at UFMS;
-- Studying the following microcontrollers: ESP32, Arduino and RP2350;
-- Aspiral Engineer in Robotics and Embedded Systems;
-- Enjoy contributing to Open Source Projects whenever possible.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Marcos+Gabriel;Embedded+Systems+%26+Control;Artificial+Intelligence" alt="Typing SVG" />
+</a>
 
-## Embedded Systems Expertise:
-- ESP32 and Arduino Algorthms from Arduino IDE
-- ESP32 and Arduino Algorthms from PlatformIO IDE
-- Sensing through GPIO's
-- LPOO
-- Iot
+<br>
 
-## Languages and Tools:
-<div style="display: inline-block" align="center"><br>
-  <img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Marcos-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Marcos-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Marcos-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Marcos-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Marcos-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Marcos-Vs Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Marcos-Arch Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-da-silva-rocha-a16125249/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosdevse@gmail.com)
 
-  <br>
-  
-  <img align="center" alt="Marcos-Vs Code" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/platformio.svg">
 </div>
 
-## Statistics:
+<br>
+
+### About me
+
+- Computer Engineering student
+- Focused on Embedded Systems, Control Systems and Artificial Intelligence
+- Enjoy contributing to Open Source projects
+
+<br>
+
+### Technologies
+
 <div align="center">
-  <a href="https://github.com/marcosgabrielsr">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielsr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" title="Google Colab"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="MATLAB"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust"/>
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielsr&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgabrielsr&theme=dracula&hide_border=true&area=true"/>
 </div>
