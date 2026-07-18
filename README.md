@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Marcos+Gabriel;Embedded+Systems+%26+Control;Artificial+Intelligence" alt="Typing SVG" />
 </a>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-da-silva-rocha-a16125249/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosdevse@gmail.com)
-
 </div>
 
 <br>
@@ -40,12 +35,14 @@
 <br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielsr&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgabrielsr&theme=shadow-blue&hide_border=true&area=true"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgabrielsr&theme=dracula&hide_border=true&area=true"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-da-silva-rocha-a16125249/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosdevse@gmail.com)
+
 </div>
