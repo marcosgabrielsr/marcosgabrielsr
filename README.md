@@ -19,17 +19,21 @@
 ### Technologies
 
 <div align="center">
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++"/>
   <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" title="Google Colab"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS"/>
   <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="MATLAB"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust"/>
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" title="MATLAB"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" title="Pytorch"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" title="Rust"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker"/>
+  <img height="42" width="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code"/>
 </div>
 
 <br>
